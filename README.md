@@ -1,5 +1,7 @@
 # CBAM accredited verifiers
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23778090.svg)](https://doi.org/10.5281/zenodo.23778090)
+
 Which firms are accredited to verify emissions under the EU Carbon Border Adjustment Mechanism (CBAM), and which national accreditation bodies accredit CBAM verifiers, including those that accept verification firms from outside the EU.
 
 On the checked date the European Commission had not yet published its own list of accredited CBAM verifiers ([CBAM verification page](https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/cbam-verification_en)). This list is read from each accreditation body's own decision.
