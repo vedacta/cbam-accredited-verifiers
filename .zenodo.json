@@ -1,0 +1,26 @@
+{
+  "title": "CBAM accredited verifiers and accreditation bodies",
+  "description": "Firms accredited to verify emissions under the EU Carbon Border Adjustment Mechanism (CBAM), and the national accreditation bodies that accredit CBAM verifiers, from the Commission's state of play, as JSON and CSV. Unofficial compilation; check the Commission's current list before relying on it.",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "creators": [
+    {
+      "name": "Vedacta"
+    }
+  ],
+  "keywords": [
+    "CBAM",
+    "verification",
+    "accreditation",
+    "verifiers",
+    "EU"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://cbam.vedacta.com/guides/cbam-verifiers",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
