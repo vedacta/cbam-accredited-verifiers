@@ -1,0 +1,46 @@
+{
+  "checked": "2026-10-18",
+  "note": "Firms accredited for CBAM verification, each read on its accreditation body's own publication. The Commission had published no list on the checked date. since = the date of the accreditation decision or scope. groups = CBAM activity groups of Annex I to Delegated Regulation (EU) 2025/2551. Accredia's news item of 6 Oct 2026 gives other groups for RINA and SGS than its signed decision Rev. 01; the decision is used.",
+  "verifiers": [
+    {
+      "name": "EmiCert S.A.",
+      "iso": "GR",
+      "nab": "ESYD",
+      "since": "2026-09-14",
+      "groups": ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "L", "LI", "LII"],
+      "url": "https://esyd.gr/wp-content/uploads/2026/09/EMICERT_874_8-_V1_20_17029_eng.docx"
+    },
+    {
+      "name": "Bureau Veritas Italia S.p.A.",
+      "iso": "IT",
+      "nab": "Accredia",
+      "since": "2026-09-28",
+      "groups": ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "L", "LII"],
+      "url": "https://www.accredia.it/wp-content/uploads/2026/10/Delibera_CSA_CI_2026-09-28-signed_REV01.pdf"
+    },
+    {
+      "name": "RINA Services S.p.A.",
+      "iso": "IT",
+      "nab": "Accredia",
+      "since": "2026-09-28",
+      "groups": ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "L", "LI", "LII"],
+      "url": "https://www.accredia.it/wp-content/uploads/2026/10/Delibera_CSA_CI_2026-09-28-signed_REV01.pdf"
+    },
+    {
+      "name": "SGS ICS Italia S.r.l.",
+      "iso": "IT",
+      "nab": "Accredia",
+      "since": "2026-09-28",
+      "groups": ["I", "II", "IV", "VI", "VIII", "L", "LI", "LII"],
+      "url": "https://www.accredia.it/wp-content/uploads/2026/10/Delibera_CSA_CI_2026-09-28-signed_REV01.pdf"
+    },
+    {
+      "name": "Intertek Certification AB",
+      "iso": "SE",
+      "nab": "Swedac",
+      "since": "2026-10-13",
+      "groups": ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "LI", "LII"],
+      "url": "https://ackrediteringar.swedac.se/en/1639"
+    }
+  ]
+}
